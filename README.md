@@ -1,6 +1,6 @@
 # Leon's USB-Hub
 
-[Your Name](https://github.com/yourusername)
+[OSHWLAB](https://oshwlab.com/leonjohnsloujan/project_mtkjdlau)
 
 - A custom USB hub PCB designed with **Macondo Hack Club**.
 - It features a **USB-C input** and **4 USB outputs**, including **2 USB-C ports and 1 USB-A port**.
