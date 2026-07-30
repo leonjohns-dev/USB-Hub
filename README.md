@@ -1,6 +1,8 @@
-# USB-Hub
-Shematic 
-<img width="2362" height="1672" alt="SCH_Schematic1_1-P1_2026-07-30" src="https://github.com/user-attachments/assets/9906fcab-85be-4ddc-af2d-ff6cec7d44b7" />
+# Leon's USB-Hub
+
+
+Schematic:
+<img width="1181" height="836" alt="SCH_Schematic1_1-P1_2026-07-30" src="https://github.com/user-attachments/assets/9906fcab-85be-4ddc-af2d-ff6cec7d44b7" />
 
 
 Final Product:
