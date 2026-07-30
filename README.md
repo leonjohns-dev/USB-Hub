@@ -2,8 +2,8 @@
 
 [OSHWLAB](https://oshwlab.com/leonjohnsloujan/project_mtkjdlau)  
 
-- A custom USB hub PCB designed with **Macondo Hack Club**.
-- It features a **USB-C input** and **4 USB outputs**, including **2 USB-C ports and 1 USB-A port**.
+- A custom USB Hub PCB designed with the guide from the **Macondo Hack Club**
+- It features a USB-C input and 4 USB outputs, including 2 USB-C ports and 1 USB-A port
 - Cool star silkscreen design
 - Keychain perforation included!
 
@@ -21,7 +21,6 @@
 
 The total cost for ordering the PCBs and components through JLCPCB came to $35.79 USD.
 
-
 ## Schematic
 <img width="1200" alt="USB Hub PCB schematic" src="https://github.com/user-attachments/assets/9906fcab-85be-4ddc-af2d-ff6cec7d44b7">
 
@@ -31,5 +30,5 @@ The total cost for ordering the PCBs and components through JLCPCB came to $35.7
 
 <img width="900" alt="USB Hub PCB final product" src="https://github.com/user-attachments/assets/db96fc4e-6b7e-41b0-a26c-d8e521e93822">
 
-**Very fire design 🔥**
+*Fire Design!*
 
